@@ -1,8 +1,17 @@
-### Hi there 👋
+[![Twitter Followers](https://img.shields.io/twitter/follow/ahmad_ajmal93?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/ahmad_ajmal93) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/mhr202?logo=GitHub&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/mhr202?logo=github&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/mhr202?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/CyrisXD)
+
+# 👋 &nbsp;Hi there
+
+I'm a software developer based in Pakistan. I enjoy coding and learning new things. I love combining my hobbies like animations, coding and building various projects that are visual breathtaking. Slightly obsessed with Game Development. You can find me on LinkedIn [@mhr202](https://www.linkedin.com/in/mhr202/). Feel free to contact me any time.
+
+&nbsp;
+
+## 🧰 &nbsp;My toolbox
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,express,redux,graphql,gatsby,firebase,mongodb,mysql,docker,html,css,redis,tailwind,git,jest&theme=dark&perline=6)](https://skillicons.dev)
+
 
 <!--
-**mhr202/mhr202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
