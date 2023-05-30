@@ -39,6 +39,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhr202&show_icons=true&locale=en&theme=tokyonight" alt="mhr202" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhr202&&theme=tokyonight" alt="mhr202" /></p>
 </div>
 
