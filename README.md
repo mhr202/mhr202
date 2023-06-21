@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **ROR , Laravel**
+- 💬 Ask me about **React, Next, Laravel**
 
 - 📫 How to reach me **hasnatraza202@gmail.com**
 
